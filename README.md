@@ -5,6 +5,6 @@ source .venv/bin/activate  # Or .\.venv\Scripts\activate on Windows
 # 2. Dependency Injection
 pip install opencv-python mediapipe pyautogui numpy
 
-# 3. Initialize Engine
+# 3. Initialize Engines
 python hio.py
 🛠️ Architecture Deep-DiveThe Smoothing Algorithm (Lerp)To achieve "Paint-Ready" stability, we use a Linear Interpolation formula:$$P_{current} = P_{prev} + \frac{P_{target} - P_{prev}}{Smoothing}$$This ensures that even if your hand has micro-tremors, the cursor path remains mathematically fluid.<div align="center"><sub>Built with ❤️ by AHSAAN </sub></div>
