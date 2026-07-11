@@ -49,7 +49,7 @@ while cap.isOpened():
             lm = hand_lms.landmark
             curr_time = time.time()
             
-            # --- 1. MOVEMENT (Point 9) ---
+            # --- 1. MOVEMENTs (Point 9) ---
             fr = 140 
             tx = np.interp(lm[9].x * w, (fr, w - fr), (0, screen_width))
             ty = np.interp(lm[9].y * h, (fr, h - fr), (0, screen_height))
