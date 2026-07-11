@@ -73,7 +73,7 @@ while cap.isOpened():
                 cv2.line(img, (int(lm[4].x*w), int(lm[4].y*h)), (int(lm[8].x*w), int(lm[8].y*h)), (0, 255, 0), 3)
                 cv2.putText(img, "LEFT CLICK", (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
 
-            # DRAG (8 and 12 meet)
+            # DRAG (8 and 12 meets)
             # Threshold is set to 30 pixels. If it's still "always dragging," increase this to 20.
             if dist_8_12 < 30: 
                 if not dragging:
