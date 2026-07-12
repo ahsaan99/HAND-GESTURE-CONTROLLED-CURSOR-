@@ -93,7 +93,7 @@ while cap.isOpened():
                     last_click_time = curr_time
                 cv2.putText(img, "RIGHT CLICK", (50, 150), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 
-            # SCREENSHOT (20 and 16 meet)
+            # SCREENSHOTS (20 and 16 meet)
             if get_dist(lm[20], lm[16], w, h) < 30:
                 if curr_time - last_click_time > 1.0:
                     pyautogui.hotkey('win', 'prtscr')
