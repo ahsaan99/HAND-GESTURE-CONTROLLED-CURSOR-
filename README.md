@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=AirTouch%20AI&fontSize=48&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Next-Generation%20Computer%20Vision%20Peripheral%20Control&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:00E5FF&height=230&section=header&text=AirTouch%20AI&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Next-Generation%20Computer%20Vision%20Peripheral%20Control&descAlignY=56&descSize=18&descColor=00E5FF" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
 
@@ -90,6 +90,6 @@ This ensures that even if your hand has micro-tremors, the cursor path remains m
 
 <sub>Built with ❤️ by <b>AHSAAN</b></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00E5FF,50:203A43,100:0F2027&height=150&section=footer&animation=twinkling" />
 
 </div>
