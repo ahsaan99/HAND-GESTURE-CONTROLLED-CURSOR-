@@ -33,7 +33,7 @@ AirTouch AI is not just a mouse replacement — it's a **spatial interface**. By
 
 ---
 
-## 🕹️ Command Registry
+## 🕹️  Command Registry
 
 <details open>
 <summary><b>👉 View Gesture Documentation</b></summary>
