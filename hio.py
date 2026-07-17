@@ -4,7 +4,7 @@ import pyautogui
 import math
 import numpy as np
 import time
-
+ 
 # Direct imports to bypass audio hangs
 from mediapipe.python.solutions import hands as mp_hands
 from mediapipe.python.solutions import drawing_utils as mp_draw
