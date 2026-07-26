@@ -9,7 +9,7 @@ import time
 from mediapipe.python.solutions import hands as mp_hands
 from mediapipe.python.solutions import drawing_utils as mp_draw
 
-# --- CONFIg---
+# --- CONFIG---
 screen_width, screen_height = pyautogui.size()
 pyautogui.FAILSAFE = False
 
