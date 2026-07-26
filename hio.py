@@ -13,7 +13,7 @@ from mediapipe.python.solutions import drawing_utils as mp_draw
 screen_width, screen_height = pyautogui.size()
 pyautogui.FAILSAFE = False
 
-# Sensitivity/Smoothing
+# Sensitivity/Smoothing     
 SMOOTHING = 3 
 plocX, plocY = 0, 0
 clocX, clocY = 0, 0
